@@ -3,7 +3,7 @@
 This project documents the full setup and usage of a Windows-based forensic workstation, with memory acquisition and analysis performed using tools like **FTK Imager**, **Volatility**, **Redline**, and **Cyber Triage**.
 
 📄 **Full Report (with screenshots & detailed steps)**:  
-[Forensic_Report_PavithranCJ.pdf](./Reports/Forensic_Report_PavithranCJ.pdf)
+[Forensic_Report_PavithranCJ.pdf](https://github.com/pavithrancj/Cyber-Forensic-Tools/blob/main/Cyber%20Forensic%20Workstation.pdf)
 
 ---
 
@@ -65,6 +65,6 @@ This project documents the full setup and usage of a Windows-based forensic work
 ## 📎 Reference Report
 
 For detailed steps, screenshots, tool outputs, and command usage:  
-📘 [`Reports/Forensic_Report_PavithranCJ.pdf`](./Reports/Forensic_Report_PavithranCJ.pdf)
+📘 [`Reports/Forensic_Report_PavithranCJ.pdf`](https://github.com/pavithrancj/Cyber-Forensic-Tools/blob/main/Cyber%20Forensic%20Workstation.pdf)
 
 ---
